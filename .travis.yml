@@ -18,5 +18,5 @@ deploy:
   app: sef-scholarx
   on:
     repo: sef-global/scholarx
-    branch: master
+    branch: deployment
   skip_cleanup: true
